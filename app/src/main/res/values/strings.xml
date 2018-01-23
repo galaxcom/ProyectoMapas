@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoMapas</string>
+    <string name="title_activity_gran_terraza_map">Gran Terraza</string>
+    <string name="title_activity_torres_satelite_map">Torres de Satélite</string>
+    <string name="title_activity_la_cuspide_map">La Cúspide</string>
+    <string name="title_activity_palacio_municipal_map">Palacio Municipal Naucalpan</string>
+</resources>
